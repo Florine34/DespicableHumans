@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - item
+  - enemy
+  - Wall
+  - GroundCircle
+  - shield
+  - Potion
+  - Quite
+  - Insert
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Not visible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Compositeur
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Items
+    uniqueID: 437912767
+    locked: 0
+  - name: Ground Circle
+    uniqueID: 786613315
+    locked: 0
+  - name: Players
+    uniqueID: 4054716253
+    locked: 0
+  - name: Foreground
+    uniqueID: 4119750099
+    locked: 0
+  - name: Ent
+    uniqueID: 3877015583
+    locked: 0
